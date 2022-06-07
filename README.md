@@ -46,7 +46,7 @@ We need a solution to solve our daily task to import invoices on system, they ar
 - Revenue field should be visible only for Customer that address contains Albania
 
 #### Programing Language:
-Javascript
-C#
+- Javascript
+- C#
 
 Contact me:  [ardit.sokoli@fshnstudent.info](mailto:ardit.sokoli@ap.edu.al?subject=[GitHub]%20Source%20Han%20Sans)
