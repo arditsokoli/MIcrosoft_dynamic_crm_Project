@@ -6,9 +6,9 @@ We need a solution to solve our daily task to import invoices on system, they ar
 
 Merr si input në console nga përdoruesi :
 1. fisoft_product
--Name
--Price
--Product code
+-Name,
+-Price,
+-Product code,
 2. fisoft_invoice
 -Description
 -Number
