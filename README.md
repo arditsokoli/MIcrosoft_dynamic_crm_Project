@@ -29,7 +29,7 @@ We need a solution to solve our daily task to import invoices on system, they ar
 
 ### This is the flow: 
 
-![Blockscema](../../img/bllokskema.png)
+![Blockscema](../../tree/master/img/bllokskema.png)
 
 1. Create a console application to import invoices to CRM 365
 - File is type Excel and stored on c:\FISOFT_Consulting\invoices\  on your local machine
